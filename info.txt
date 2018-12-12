@@ -1,3 +1,3 @@
 completed on -- 11-29-18 -- 07:45am
 Repo created on Github -- commited and pushed
-Deployed to Github via Surge
+Deployed to Github via Surge https://daily-clocks.surge.sh
